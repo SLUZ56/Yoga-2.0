@@ -18,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🚀 Instalando <Yoga>
 
-Para instalar o <Yoga> baixe o app.
+Para instalar baixe o app.
 
 
 
