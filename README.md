@@ -1,4 +1,4 @@
-# YOGA
+# YOGA 2.0
 
 
 <img src="./assets/mokup.png" width="350px" alt="mokup-mobile">
