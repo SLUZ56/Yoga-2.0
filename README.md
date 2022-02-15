@@ -1,4 +1,4 @@
-# YOGA
+# YOGA 2.0
 
 
 <img src="./assets/mokup.png" width="350px" alt="mokup-mobile">
@@ -18,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🚀 Instalando <Yoga>
 
-Para instalar o <Yoga> baixe o app.
+Para instalar baixe o app.
 
 
 
